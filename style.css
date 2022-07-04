@@ -1,0 +1,38 @@
+body {
+
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.theme {
+    color: #D16701;
+}
+
+section h1 {
+
+    font-size: 40px;
+}
+
+.main-div {
+
+    background-image: url(images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    text-align: left;
+    color: white;
+    padding: 130px 50px;
+}
+
+
+
+.btn {
+
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    background-color: #D16701;
+    border-radius: 10px;
+
+}
